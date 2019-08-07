@@ -1,0 +1,11 @@
+name: phys1321
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - ffmpeg
+  - jupyterlab
+  - ipywidgets
+  - nodejs
