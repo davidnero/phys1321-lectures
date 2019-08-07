@@ -6,6 +6,7 @@ dependencies:
   - scipy
   - matplotlib
   - ffmpeg
+  - ipython
   - jupyterlab
   - ipywidgets
   - nodejs
