@@ -63,7 +63,7 @@ def video(youtube_id):
     """
     Display a YouTube video.
     """
-    display(YouTubeVideo(youtube_id, 640, 480, rel=0))
+    display(YouTubeVideo(youtube_id, 720, 480, rel=0))
 
 
 @register_cell_magic
