@@ -2,11 +2,10 @@ name: phys1321
 channels:
   - conda-forge
 dependencies:
-  - numpy
-  - scipy
-  - matplotlib
-  - ffmpeg
-  - ipython
-  - jupyterlab
-  - ipywidgets
-  - nodejs
+  - python=3.10
+  - numpy=1.23.1
+  - scipy=1.8.1
+  - matplotlib=3.5.1
+  - ipywidgets=7.7.1
+  - jupyterlab=3.4.4
+  - ffmpeg=5.1.0
